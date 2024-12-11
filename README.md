@@ -1,4 +1,4 @@
-# Python Mini-Projects Collection
+# Python Micro Analytics portfolio
 
 A collection of interactive Python programs demonstrating various programming concepts, available in both script (.py) and notebook (.ipynb) formats.
 
